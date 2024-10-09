@@ -57,6 +57,9 @@ A sprite also has a number of different properties that can be manipulated using
 `material`
 : The sprite material (`hash`). You can change this using a material resource property and `go.set()`. Refer to the [API reference for an example](/ref/sprite/#material).
 
+`blend_mode`
+: The blend mode (`number`).
+
 `playback_rate`
 : The animation playback rate (`number`).
 
